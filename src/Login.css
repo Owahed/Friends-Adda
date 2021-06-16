@@ -13,8 +13,8 @@
 }
 
 .login > button:hover{
-    background-color: black;
-    color: #6443c2;
+    background-color: rgba(141,57,250,.9607843137254902);
+    color: #eff2f5;
 }
 
 /* .login > div {
@@ -24,6 +24,6 @@
 
 .login > div > img {
     object-fit: contain;
-    height: 250px;
+    height: 350px;
 }
 
